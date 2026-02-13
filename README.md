@@ -10,3 +10,5 @@ Features include:
 
 Software was generated using Gemmini 3 Flash, development with RE took 87min. 
 It can be used free of charge for any commercial/non commercial work, in part or fully.
+
+<img width="800" height="629" alt="image" src="https://github.com/user-attachments/assets/dd23d261-5513-4cf2-af81-ef98b330b994" />
